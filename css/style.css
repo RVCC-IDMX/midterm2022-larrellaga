@@ -17,3 +17,9 @@ h2 {
 header {
     text-align: center;
 }
+
+/* Laptop Section */
+
+#laptop img {
+    widows: 400px;
+}
