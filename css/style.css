@@ -1,0 +1,15 @@
+body {
+    font-family: Roboto;
+    background-color: aqua;
+    color: bisque;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Grenzy Gotisch";
+    text-align: center;
+    font-size: 40pt;
+}
+
+h2 {
+    margin: 0.1em;
+}
