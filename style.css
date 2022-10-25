@@ -1,0 +1,45 @@
+body {
+    font-family: Roboto;
+    background-color: lightslategray;
+    color: powderblue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Grenzy Gotisch";
+    text-align: center;
+    font-size: 40pt;
+}
+
+/* Laptop */
+
+#laptop img {
+    width: 900px
+}
+
+#laptop {
+    text-align: center;
+    font-size: 15pt;
+    border: 2px solid #A3721C;
+    background-color: darkslategray;
+    padding: 10px;
+}
+
+/* Websites */
+
+#websites {
+    text-align: center;
+    font-size: 25pt;
+    border: 2px solid #A3721C;
+    background-color: darkslategray;
+    padding: 10px;
+}
+
+/* Reviews */
+
+#reviews {
+    text-align: center;
+    font-size: 22.5pt;
+    background-color: darkslategray;
+    border: 2px solid #A3721C;
+    padding: 10px;
+}
